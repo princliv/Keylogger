@@ -1,3 +1,5 @@
+![](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+
 # Keylogger
 This is a simple keylogger program developed using Python and the Tkinter library for the graphical user interface. 
 The keylogger records every keystroke made by a computer user. 
