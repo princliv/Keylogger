@@ -8,9 +8,9 @@ This program is purely for educational purposes and should not be used for any i
 
 ##**->How it works**
 
-The keylogger captures key events when a key is pressed, held, or released./
-The captured events are then stored in two different formats: a JSON file (log.json) and a text file (logs.txt)./
-The JSON file stores the key events in a structured format, while the text file stores the raw key strokes./
+The keylogger captures key events when a key is pressed, held, or released.<br>
+The captured events are then stored in two different formats: a JSON file (log.json) and a text file (logs.txt).<br>
+The JSON file stores the key events in a structured format, while the text file stores the raw key strokes.<br>
 
 ##**->Features**
 
